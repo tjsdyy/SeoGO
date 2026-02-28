@@ -1,18 +1,41 @@
 ---
-title: Lesson Template
+title: SEO 出海全流程教程
 layout: lesson-content
 anchor_headings: false
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+欢迎来到 **SEO 出海全流程教程**！本教程面向希望通过 SEO 获取海外自然流量的开发者、独立站站长和出海创业者，系统讲解从准备阶段到数据优化闭环的完整链路。
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+## 教程结构
 
-*Add your workshop abstract here!*
+本教程共 9 章，按照出海 SEO 的实际操作顺序组织：
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+| 章节 | 主题 | 核心内容 |
+|------|------|----------|
+| 第1章 | 准备阶段 | 基础设施搭建、能力储备 |
+| 第2章 | 核心概念 | SEO 原理、搜索引擎机制 |
+| 第3章 | 产品定位 | 出海策略、市场分析 |
+| 第4章 | 关键词与趋势 | 关键词研究、热点发现 |
+| 第5章 | 上站流程 | 技术架构、建站实战 |
+| 第6章 | 内容策略 | 内容运营、外链建设 |
+| 第7章 | 流量获取 | SEO 增长、付费推广、社交引流 |
+| 第8章 | 数据优化 | 数据监控、A/B 测试 |
+| 第9章 | 风险与合规 | 算法应对、合规、AI 趋势 |
+
+## 适合谁读
+
+- **独立开发者**：想用 SEO 获取第一批海外用户
+- **出海创业团队**：需要系统化 SEO 知识体系
+- **内容站长**：希望提升自然搜索流量
+- **跨境电商从业者**：通过 SEO 降低获客成本
+
+## 如何使用本教程
+
+1. **新手**：建议从左侧导航的「15分钟速成指南」开始，再按章节顺序阅读
+2. **有基础的读者**：可直接跳到感兴趣的章节
+3. **实战参考**：每章都可独立阅读，配合实际项目使用
+
+> 本教程持续更新中，紧跟 Google 算法变化和 AI 技术发展。
 
 {% include toc.html %}
 
