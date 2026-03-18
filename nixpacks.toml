@@ -1,0 +1,5 @@
+[phases.setup]
+cmds = ["rm -f package-lock.json"]
+
+[phases.install]
+cmds = ["npm install --prefer-offline"]
