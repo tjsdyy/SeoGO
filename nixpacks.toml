@@ -1,2 +1,2 @@
 [phases.install]
-cmds = ["npm install -g pnpm && rm -rf node_modules && pnpm install"]
+cmds = ["npx pnpm install"]
