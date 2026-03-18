@@ -20,8 +20,5 @@
     "@types/react": "^19.0.0",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.7.0"
-  },
-  "optionalDependencies": {
-    "@tailwindcss/oxide-linux-x64-gnu": "^4.2.1"
   }
 }

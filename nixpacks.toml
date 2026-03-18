@@ -1,5 +1,5 @@
 [phases.setup]
-cmds = ["rm -f package-lock.json"]
+cmds = ["npm install -g pnpm"]
 
 [phases.install]
-cmds = ["npm install"]
+cmds = ["rm -rf node_modules && pnpm install"]

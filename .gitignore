@@ -19,6 +19,9 @@ vendor/
 # OS
 .DS_Store
 
+# Lock file (contains platform-specific native bindings, breaks cross-platform deploy)
+package-lock.json
+
 # Env
 .env
 .env.local
